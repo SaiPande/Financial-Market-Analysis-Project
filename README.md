@@ -1,4 +1,4 @@
-#Financial Market Analysis Project
+*Financial Market Analysis Project*
 
 **Overview**
 This project explores relationships between different financial datasets, including S&P 500 stocks, gold prices, real estate sales, and U.S. recessions. The goal is to identify patterns and correlations that can provide insights into economic trends.
