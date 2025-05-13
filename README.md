@@ -39,9 +39,9 @@ Environment: Jupyter Notebook, Visual Studio Code
 bash
 Copy
 Edit
-git clone https://github.com/SaiPande/cap5771sp25-project.git
+git clone [https://github.com/SaiPande/Financial-Market-Analysis-Project.git](https://github.com/SaiPande/Financial-Market-Analysis-Project.git)
 
-cd cap5771sp25-project
+cd Financial-Market-Analysis-Project
 
 ### 2. Install Dependencies
 bash
