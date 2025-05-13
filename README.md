@@ -34,29 +34,32 @@ Programming Language: Python<br>
 Libraries: Pandas, NumPy, SciPy, Scikit-Learn, Seaborn, Matplotlib<br>
 Environment: Jupyter Notebook, Visual Studio Code
 
-## **Execution Instructions**
+## Execution Instructions
 ### 1. Clone the Repository
-bash
-Copy
-Edit
+```bash
 git clone [https://github.com/SaiPande/Financial-Market-Analysis-Project.git](https://github.com/SaiPande/Financial-Market-Analysis-Project.git)
-
+```
+```bash
 cd Financial-Market-Analysis-Project
+```
 
 ### 2. Install Dependencies
-bash
+```bash
 pip install pandas numpy scipy scikit-learn seaborn matplotlib
+```
 
 ### 3. Prepare the Data
 Place raw datasets in the data/raw folder.<br>
 Run the preprocessing scripts located in the preprocessing folder.
 
-### 4. Run the Analysis**
-Open Jupyter Notebook using:
-bash
-jupyter notebook
-Open and execute EDA.ipynb to generate descriptive statistics and visualizations.
+### 4. Run the Analysis
+Open Jupyter Notebook:
+Open and execute Milestone1.ipynb to generate descriptive statistics and visualizations.
 
-### 5. View Results**
+### 5. View Results
 Processed datasets are saved in the data/cleaned folder.<br>
 Visualization outputs are saved in the outputs folder.
+
+### 6. Feature Engineering, Feature Selection and Modeling
+Open Jupyter Notebook:
+Open and execute Milestone2.ipynb.
